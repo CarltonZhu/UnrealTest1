@@ -1,1 +1,5 @@
 CARLTON SAYS HI
+
+Cube is now 0,7,8
+
+Camera is now 15,4,3
